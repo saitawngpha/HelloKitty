@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloKitty</string>
+    <string name="author">WXY</string>
+    <string name="description">Hello Kitty, live OpenGL 2.0 ES wallpaper.</string>
+
+    <!-- Error strings -->
+    <string name="error_shader_compiler">Kitty error; GLSL shader compiler not supported.</string>
+</resources>
